@@ -19,3 +19,4 @@ VibeCoding改编自 https://www.kodeco.com/22027819-volumetric-light-scattering-
 ![效果图1](https://github.com/user-attachments/assets/83c43e4a-d576-49be-8406-6ef3ecab7679)
 
 ![效果图2](https://github.com/user-attachments/assets/4e621311-1655-4766-8099-fff44ac93519)
+<img width="2216" height="1296" alt="_ RGKYKK%G4}%%}$IYR~WR1" src="https://github.com/user-attachments/assets/ba1ef8a0-e718-42d7-bdad-b8e2e8f8e537" />
